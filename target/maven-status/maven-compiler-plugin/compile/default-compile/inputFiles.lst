@@ -1,0 +1,16 @@
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\controller\DependencyController.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\controller\TodoItemController.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\data\repos\ITodoItemRepository.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\data\entity\TodoList.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\service\DependencyService.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\exception\DataNotFoundException.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\service\TodoItemService.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\data\entity\TodoItem.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\data\entity\Dependency.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\data\repos\IDependencyRepository.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\controller\TodoListController.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\exception\ExistingDataException.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\service\TodoListService.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\data\repos\ITodoListRepository.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\exception\GeneralExceptionHandler.java
+C:\Users\MrBlack\Desktop\CveSistemKurs\Java\MyProjects\todoapp\todoapp\src\main\java\com\erdemkara\todoapp\TodoappApplication.java
